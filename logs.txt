@@ -1,0 +1,169 @@
+
+Time: 2026-02-15 18:02:42.823271
+IP: 127.0.0.1
+Path: /
+Method: GET
+Risk Score: 0
+Body: 
+-----------------------------------------
+
+Time: 2026-02-15 18:02:45.837245
+IP: 127.0.0.1
+Path: /favicon.ico
+Method: GET
+Risk Score: 0
+Body: 
+-----------------------------------------
+
+Time: 2026-02-15 18:03:00.047081
+IP: 127.0.0.1
+Path: /
+Method: POST
+Risk Score: 80
+Body: {
+    "username": "admin' OR 1=1 --",
+    "password": "anything"
+}
+
+-----------------------------------------
+
+Time: 2026-02-15 18:03:06.527160
+IP: 127.0.0.1
+Path: /
+Method: POST
+Risk Score: 80
+Body: {
+    "username": "admin' OR 1=1 --",
+    "password": "anything"
+}
+
+-----------------------------------------
+
+Time: 2026-02-15 18:05:05.414972
+IP: 127.0.0.1
+Path: /
+Method: POST
+Risk Score: 80
+Body: {
+    "username": "admin' OR 1=1 --",
+    "password": "anything"
+}
+
+-----------------------------------------
+
+Time: 2026-02-15 18:05:07.325024
+IP: 127.0.0.1
+Path: /
+Method: POST
+Risk Score: 80
+Body: {
+    "username": "admin' OR 1=1 --",
+    "password": "anything"
+}
+
+-----------------------------------------
+
+Time: 2026-02-15 18:05:45.100417
+IP: 127.0.0.1
+Path: /
+Method: GET
+Risk Score: 0
+Body: 
+-----------------------------------------
+
+Time: 2026-02-15 18:05:46.020352
+IP: 127.0.0.1
+Path: /favicon.ico
+Method: GET
+Risk Score: 0
+Body: 
+-----------------------------------------
+
+Time: 2026-02-15 18:06:29.772650
+IP: 127.0.0.1
+Path: /docs
+Method: GET
+Risk Score: 0
+Body: 
+-----------------------------------------
+
+Time: 2026-02-15 18:06:40.790749
+IP: 127.0.0.1
+Path: /openapi.json
+Method: GET
+Risk Score: 0
+Body: 
+-----------------------------------------
+
+Time: 2026-02-15 18:07:48.851890
+IP: 127.0.0.1
+Path: /login
+Method: POST
+Risk Score: 0
+Body: {
+  "username": "prince",
+  "password": "1234"
+}
+
+
+-----------------------------------------
+
+Time: 2026-02-15 18:08:17.177753
+IP: 127.0.0.1
+Path: /login
+Method: POST
+Risk Score: 80
+Body: {
+  "username": "admin' OR 1=1 --",
+  "password": "hack"
+}
+
+-----------------------------------------
+
+Time: 2026-02-15 18:11:40.757469
+IP: 127.0.0.1
+Path: /login
+Method: POST
+Risk Score: 80
+Body: {
+  "username": "admin' OR 1=1 --",
+  "password": "hack"
+}
+
+-----------------------------------------
+
+Time: 2026-02-15 18:11:42.391902
+IP: 127.0.0.1
+Path: /login
+Method: POST
+Risk Score: 80
+Body: {
+  "username": "admin' OR 1=1 --",
+  "password": "hack"
+}
+
+-----------------------------------------
+
+Time: 2026-02-15 19:59:43.637769
+IP: 127.0.0.1
+Path: /login
+Method: POST
+Risk Score: 80
+Body: {
+  "username": "admin' OR 1=1 --",
+  "password": "hack"
+}
+
+-----------------------------------------
+
+Time: 2026-02-15 20:00:47.649713
+IP: 127.0.0.1
+Path: /login
+Method: POST
+Risk Score: 80
+Body: {
+  "username": "admin' OR 1=1 --",
+  "password": "hack"
+}
+
+-----------------------------------------
